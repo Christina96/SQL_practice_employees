@@ -17,5 +17,9 @@ I compare the number of male managers to the number of female managers from diff
 # Task_3
 I Compare the average salary of female versus male employees in the entire company until year 2002.
 
+![image](https://github.com/Christina96/SQL_practice_employees/assets/143613740/85627da0-09df-4261-a78f-0b5ed0555da5)
+
+
 # Task_4
 I Create an SQL stored procedure that will allow you to obtain the average male and female salary per department within a certain salary range.
+![image](https://github.com/Christina96/SQL_practice_employees/assets/143613740/b0b3a177-de78-4740-800f-7a03a980efba)
