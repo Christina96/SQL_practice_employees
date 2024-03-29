@@ -7,6 +7,13 @@ I create a visualization that provides a breakdown between the male and female e
 # Task_2
 I compare the number of male managers to the number of female managers from different departments for each year, starting from 1990.
 
+
+
+![image](https://github.com/Christina96/SQL_practice_employees/assets/143613740/0f47b08a-07a7-480e-a5f5-f17461598882)
+
+
+
+
 # Task_3
 I Compare the average salary of female versus male employees in the entire company until year 2002.
 
